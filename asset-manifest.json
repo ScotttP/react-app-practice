@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ScotttP/react-app-practice/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ScotttP/react-app-practice/static/js/main.c855bfed.chunk.js",
+    "main.js.map": "/ScotttP/react-app-practice/static/js/main.c855bfed.chunk.js.map",
+    "runtime-main.js": "/ScotttP/react-app-practice/static/js/runtime-main.0c5c68c6.js",
+    "runtime-main.js.map": "/ScotttP/react-app-practice/static/js/runtime-main.0c5c68c6.js.map",
+    "static/js/2.09f9980d.chunk.js": "/ScotttP/react-app-practice/static/js/2.09f9980d.chunk.js",
+    "static/js/2.09f9980d.chunk.js.map": "/ScotttP/react-app-practice/static/js/2.09f9980d.chunk.js.map",
+    "index.html": "/ScotttP/react-app-practice/index.html",
+    "precache-manifest.ab49bc695f4ee089717e551af8f6d602.js": "/ScotttP/react-app-practice/precache-manifest.ab49bc695f4ee089717e551af8f6d602.js",
+    "service-worker.js": "/ScotttP/react-app-practice/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ScotttP/react-app-practice/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.09f9980d.chunk.js.LICENSE.txt": "/ScotttP/react-app-practice/static/js/2.09f9980d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ScotttP/react-app-practice/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c5c68c6.js",
+    "static/js/2.09f9980d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c855bfed.chunk.js"
+  ]
+}
